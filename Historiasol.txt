@@ -1,0 +1,5 @@
+Historia Sole
+
+Proyecto de Platzi para el curso de git y github
+
+yei!!
